@@ -1,1 +1,2 @@
-git remote add origin https://github.com/eldar0608/AttractorServerNaming.git
+git remote add origin https://github.com/eldar0608/AttractorServerNaming.git 
+для клона https://github.com/eldar0608/AttractorServerNaming.git
